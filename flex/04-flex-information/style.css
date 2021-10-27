@@ -24,3 +24,20 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* I am editing */
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.info {
+  max-width: 11vw;
+  gap: 10vw;
+}
+
+.title {
+  text-align: center;
+}
